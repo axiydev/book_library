@@ -1,3 +1,8 @@
+/*
+Created by Axmadjon Isaqov on 11:54:26 08.07.2022
+© 2022 
+*/
+///[@axi_dev]
 class MyConsts {
   /// ozgarmas bot tokeni
   static const botToken = "5583979415:AAG0iMjzZ-PizbNaj52SYe4kvto_yec3hoY";

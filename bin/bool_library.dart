@@ -1,3 +1,8 @@
+/*
+Created by Axmadjon Isaqov on 11:53:49 08.07.2022
+© 2022 
+*/
+///[@axi_dev]
 import 'dart:io';
 
 import 'package:teledart/model.dart';

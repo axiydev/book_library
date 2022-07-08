@@ -1,3 +1,8 @@
+/*
+Created by Axmadjon Isaqov on 11:54:06 08.07.2022
+© 2022 
+*/
+///[@axi_dev]
 import '../../models/book_model.dart';
 
 class BookService {
